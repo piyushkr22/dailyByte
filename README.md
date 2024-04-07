@@ -1,8 +1,6 @@
 # ✨ DailyByte Blog
 
-"DailyByte" is a vibrant and engaging blog application designed to inspire creativity and foster a sense of community among users. With DailyByte, users can easily write and publish their blog posts, sharing their thoughts, experiences, expertise, and stories with the world.
-
-The app provides a user-friendly interface for composing, editing, and formatting blog entries, empowering users to express themselves with ease.
+"DailyByte" is a vibrant and engaging blog application designed to inspire creativity and foster a sense of community among users. The app provides a user-friendly interface for composing, editing, and formatting blog entries, empowering users to express themselves with ease.
 
 It seamlessly incorporates user authentication, a robust rich text editor, and Appwrite as the backend, ensuring a smooth and secure experience for writers and readers.
 
