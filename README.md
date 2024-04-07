@@ -1,6 +1,8 @@
 # ✨ DailyByte Blog
 
-"DailyByte" is a vibrant and engaging blog application designed to inspire creativity and foster a sense of community among users. With DailyByte, users can easily write and publish their own blog posts, sharing their thoughts, experiences, expertise, and stories with the world.The app provides a user-friendly interface for composing, editing, and formatting blog entries, empowering users to express themselves with ease.
+"DailyByte" is a vibrant and engaging blog application designed to inspire creativity and foster a sense of community among users. With DailyByte, users can easily write and publish their blog posts, sharing their thoughts, experiences, expertise, and stories with the world.
+
+The app provides a user-friendly interface for composing, editing, and formatting blog entries, empowering users to express themselves with ease.
 
 It seamlessly incorporates user authentication, a robust rich text editor, and Appwrite as the backend, ensuring a smooth and secure experience for writers and readers.
 
@@ -8,7 +10,9 @@ It seamlessly incorporates user authentication, a robust rich text editor, and A
 
 ## 📋 Overview
 
-The DailyByte project is a feature-rich blog app crafted with React, Redux Toolkit, Tailwind CSS, and Appwrite. It offers users the ability to sign up, log in, and post blogs. Users can also update and delete their blogs with ease. Leveraging libraries such as React Hook Form for form handling, React Router for navigation, React Icons for enhanced UI, and TinyMCE-React for a rich text editing experience, DailyByte ensures a seamless and enjoyable blogging experience for its users.
+The DailyByte project is a feature-rich blog app crafted with React, Redux Toolkit, Tailwind CSS, and Appwrite. It offers users the ability to sign up, log in, and post blogs. Users can also update and delete their blogs with ease. 
+
+Leveraging libraries such as React Hook Form for form handling, React Router for navigation, React Icons for enhanced UI, and TinyMCE-React for a rich text editing experience, DailyByte ensures a seamless and enjoyable blogging experience for its users.
 
 
 ## 🚀 Features
