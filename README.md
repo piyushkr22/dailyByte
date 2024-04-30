@@ -26,7 +26,7 @@ It seamlessly incorporates user authentication, a robust rich text editor, and A
 - **"@reduxjs/toolkit": "^2.0.1"**
 - **"@tinymce/tinymce-react": "^4.3.2"**
 - **"appwrite": "^13.0.1"**
-- **"html-react-parser": "^5.1.1"**
+- **"HTML-react-parser": "^5.1.1"**
 - **"react": "^18.2.0"**
 - **"react-dom": "^18.2.0"**
 - **"react-hook-form": "^7.49.3"**
@@ -42,8 +42,8 @@ It seamlessly incorporates user authentication, a robust rich text editor, and A
 
 ## 🌟 Usage
 
-1. **Sign Up and Log In:** Establish an account using your email and log in to access the complete set of features.
-2. **Create and Manage Articles:** Visit "Add Post" in the navbar to publish a post. Modify or delete your articles as needed.
+1. **Sign Up and Log In:** Establish an account using your email and log in to access the complete features.
+2. **Create and Manage Articles:** Visit "Add Post" in the navbar to publish a post. You can modify or delete your articles as needed.
 3. **Explore All Posts:** Explore the "All Posts" section to discover articles published by other users.
 
 ## 📝 Rich Text Editor
@@ -52,4 +52,4 @@ The application employs TinyMCE, offering an intuitive and powerful rich text ed
 
 ## 🌐 Appwrite Integration
 
-Appwrite serves as the backbone, streamlining backend operations and enhancing the security of user authentication and data storage. Appwrite simplifies the complexities and repetitions involved in building a modern backend API, enabling developers to construct secure apps more efficiently.
+Appwrite serves as the backbone, streamlining backend operations and enhancing the security of user authentication and data storage. Appwrite simplifies the complexities and repetitions of building a modern backend API, enabling developers to construct secure apps more efficiently.
